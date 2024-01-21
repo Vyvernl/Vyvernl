@@ -4,4 +4,4 @@
 - 🌱 Age : **13**
 - 🫂 Region: **India**
 - 💻 Experience: **2 years**
-- ⌨️ Languages: Lua, Py, Html, Css, C# & XAML
+- ⌨️ Languages: **Lua, Py, Html, Css, C# & XAML**
