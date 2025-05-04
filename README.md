@@ -3,6 +3,5 @@
 ## Personal
 - 🌱 Age : **13**
 - 🫂 Region: **India**
-- **Roblox Scripter**
 - 💻 Experience: **2 years**
 - ⌨️ Languages: **Lua, Py, Html, Css, C# & XAML**
